@@ -1,10 +1,10 @@
 # Munich Traffic and Drone Air Quality Measurement Correlation
 
-This repository contains analysis code for investigating the correlation between traffic patterns and air quality measurements collected via drone in Munich, Germany.
+This repository contains analysis code for investigating the correlation between traffic count and air quality measurements collected via drone in Munich, Germany.
 
 ## Project Overview
 
-This project analyzes the relationship between traffic data from multiple sensors and air quality measurements collected using drone-based sensors. The goal is to understand how traffic patterns influence local air quality conditions in the Munich area.
+This project analyzes the relationship between traffic data from multiple sensors and air quality measurements collected using mini airquix attached to a drone. The goal is to understand how traffic patterns influence local air quality conditions in the Munich area.
 
 ## Repository Structure
 
@@ -82,4 +82,4 @@ _To be specified_
 
 ## Contact
 
-For questions or collaboration inquiries, please open an issue in this repository.
+For questions or collaboration inquiries, please open an issue in this repository or email socratesmugo@gmail.com.
